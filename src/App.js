@@ -1,10 +1,8 @@
-import './App.css';
+import Body from './components/Body';
 
 function App() {
   return (
-    <div className="font-300px font-bold text-red-500">
-      NetFlix GTP
-    </div>
+    <Body />
   );
 }
 
